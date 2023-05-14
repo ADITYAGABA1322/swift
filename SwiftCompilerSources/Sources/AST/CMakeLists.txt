@@ -11,4 +11,3 @@ add_swift_compiler_module(AST
     Basic
   SOURCES
     DiagnosticEngine.swift)
-
